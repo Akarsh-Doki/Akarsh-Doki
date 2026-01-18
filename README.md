@@ -7,7 +7,7 @@ I'm deeply enthusiastic about using **machine learning** to solve **real-world p
 I enjoy taking complex data and turning it into meaningful insights and practical applications.  
 
 Check out my featured project:  
-👉 **[NASA Engine Failure Prediction (ML)](https://github.com/Akarsh-Doki/nasa-engine-failure-prediction-ml)** — a predictive modeling project built to forecast jet engine failures using telemetry data 🚀
+👉 **[Pokémon Card Valuator](https://github.com/Akarsh-Doki/pokemon-card-valuator)** — a full-stack CV + ML system that scans trading cards, matches variants, and aggregates ungraded + PSA pricing using real-time market data.
 
 ### 🧠 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -18,6 +18,12 @@ Check out my featured project:
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-004C99?style=flat&logo=matplotlib)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-111827?style=flat&logo=opencv&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/-PaddleOCR-FF0000?style=flat&logo=python&logoColor=white)
+![EasyOCR](https://img.shields.io/badge/-EasyOCR-0A0A0A?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### 🌍 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarsh-doki/)
